@@ -1,4 +1,3 @@
-
 ! Title: 规则合并组
 ###A9AdsMiddleBoxTop
 ###A9AdsOutOfStockWidgetTop
@@ -52476,6 +52475,7 @@
 ##[href^="/ucdownloader.php"]
 ##[href^="/ucmini.php"]
 ##[href^="http://advertisesimple.info/"]
+##[href^="http://globsads.com/"]
 ##[href^="http://go.cm-trk2.com/"]
 ##[href^="http://homemoviestube.com/"]
 ##[href^="http://join.hardcoreshemalevideo.com/"]
@@ -75202,6 +75202,8 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 7kanal.co.il##.Share
 7kankan.com##[id^="adbottom"]
 7m.cn##.Head_banner,div.u7MAD_sTop,div[class^="a_d"],div.mode_ad,.u7MAD,[class^="ad_"]
+7mmtv.tv###mvspan_2_s_k_i_p
+7mmtv.tv###player-container[style="width:300px;height:250px"]
 7news.com.au##.cookie-consent--normal
 7nsc.cn
 7sim.net##html > body ~ div
@@ -83985,7 +83987,7 @@ audacy.com##.podcast-lead__social
 audio-hi-fi.ru,electro-sila.ru##.blok_new > div[style]
 audio-parts.de##.popup_notification
 audiobacon.net##.audio-widget.et_pb_widget
-audiobacon.net,bhamnow.com,mondoweiss.net,ottverse.com,sundayworld.co.za,tampabayparenting.com##.adv-link
+audiobacon.net,bhamnow.com,mondoweiss.net,ottverse.com,sundayworld.co.za,tampabayparenting.com,theaudiophileman.com##.adv-link
 audiobookbay.nl##[href^="/down-"]
 audiofanzine.com##div[style*="height: 90px;"]
 audiofanzine.com##div[style*="height:600px;"]
@@ -91874,6 +91876,7 @@ globo.com##.compartilhar
 globo.com##.geral-nextprevious
 globo.com##.newsletters
 globo.com##.rss
+globsads.com#@#[href^="http://globsads.com/"]
 glosbe.com###rightSidebarFirstBanner
 glosbe.com###rightSidebarSecondBanner
 gloss.ua###disclaimer
@@ -100390,6 +100393,7 @@ perezhilton.com###prev_post_arrow
 perezhilton.com###side-follow
 perezhilton.com##.box_perez_contact
 perezhilton.com##.postbottom
+perfectdailygrind.com##.gpdgeng
 perfectgirls.net##.container + div + .additional-block-bg
 perfectgirls.net,xnostars.com##.promo
 perfectmatch.tw#@#.right_ad
@@ -119271,6 +119275,7 @@ zznews.cn##.ad:not([style])
 ||globes.co.il/shared/s.ashx?
 ||globetrackr.com^$third-party
 ||globo.com/geo?
+||globsads.com^$third-party
 ||globwo.online^$popup
 ||glomera.com/stats
 ||glookroz.net^$popup
@@ -120014,6 +120019,7 @@ zznews.cn##.ad:not([style])
 ||hikoki-powertools.it/image/top-
 ||hikyceti.pro^$popup
 ||hilariouszinc.com^$third-party
+||hillreporter.com/V3CykjuIU7M2.js
 ||hilltopads.net^$popup
 ||hilton.com/zJbufaUX/
 ||hiltonbett.com^$popup
@@ -126782,10 +126788,12 @@ zznews.cn##.ad:not([style])
 ||qz828.com/css/2010/script/*ad
 ||qzlog.com^$third-party
 ||qzone.la/Scripts/m.js
+||qzone.qq.com/iframe/report
 ||qzone.qq.com/wspeed.qq.com^
 ||qzonestyle.gtimg.cn/qzone/biz/ac/comm/$script
 ||qzonestyle.gtimg.cn/qzone/phone/n/
 ||qzonestyle.gtimg.cn/qzone/qzact^
+||qzonestyle.gtimg.cn/qzone/v8/ic/iframeReport.js
 ||qzs.qq.com/qzone/biz/
 ||qzwb.com/phpstat/
 ||qzzr.com/_uid.gif
@@ -133408,6 +133416,7 @@ zznews.cn##.ad:not([style])
 ||zongheng.com/upload/recommend/game/
 ||zongheng.com/v2014/js/mod/bad.js
 ||zongheng.com/zhuanti/2014/active/js/active.js
+||zongheng.com^*/logger.min.js
 ||zononi.com^$popup,third-party
 ||zontera.com^$third-party
 ||zoofiliatube.xxx/banners/

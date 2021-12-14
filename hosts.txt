@@ -57927,6 +57927,7 @@
 ||crosspromotion.weplayer.cc^
 ||crossrider.com^
 ||crosswalkmail.com^
+||crottlerennin.com^
 ||crow.mezzobit.com^
 ||crowd.fyber.com^
 ||crowd.novaon.asia^
@@ -77205,6 +77206,7 @@
 ||h501.cn^
 ||h51.com^
 ||h5jww.com^
+||h5log.zongheng.com^
 ||h5tjj3loy2.com^
 ||h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me^
 ||h728.cn^
