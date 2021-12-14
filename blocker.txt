@@ -104854,6 +104854,7 @@ tf2r.com#@#.adverts
 tfa-dostmann.de,visomat.de##.xcb
 tfetimes.com###text-25
 tfln.co###leadgen
+tftcentral.co.uk##.tftce-adlabel
 tgbus.com###guide-download
 tgbus.com###neck_970
 tgbus.com##DIV#txt_ad2.txt_ad2,DIV[class^="a760x100"],DIV.s.a200x375,DIV[class^="a200x"],DIV.ad111.fc.t10,div[class^="ad"][class$="fx"],div.ad[style^="width"],div.a_pr,div[id^="TGBUS_VISTA_CONTAINER_"],div#duilian,div#neck_970,div.ad760x100,div.in.ad200x375,DIV.s.p3 + DIV.ad,div.db.mar5,div.db.mb10,div.db.mb20,div[style="width: 300px; height: 250px; background: #ccc;"]
