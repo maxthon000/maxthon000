@@ -40342,6 +40342,7 @@
 ||aynachatsrv.com^
 ||a.youdao.com^
 ||aypbpr.tokopedia.com^
+||aysccnn.cn^
 ||aytexp.com^
 ||a.yu0123456.com^
 ||ayues.com^
@@ -43252,7 +43253,6 @@
 ||behavioriks.pl^
 ||behe.com^
 ||behlenjoiner.com^
-||bei7.clewx.com^
 ||beibeigoudai.com^
 ||beibei.xx007.cc^
 ||beibhw.cn^
@@ -49072,6 +49072,7 @@
 ||casalmedia.com^
 ||casandra-zane.us^
 ||cas.as.criteo.com^
+||casavasstamnoi.com^
 ||cas.baidu.com^
 ||cas.bugly.qq.com^
 ||cascade.madmimi.com^
@@ -58715,6 +58716,7 @@
 ||custom2.supersonicads.com^
 ||custom3hurricanedigitalmedia.com^
 ||customad.cnn.com^
+||customads.co^
 ||custom.allistracking.com^
 ||customds.serving-sys.com^
 ||customer.bnex.com^
@@ -70603,6 +70605,7 @@
 ||fenixm.com^
 ||fenixsiennica.pl^
 ||fenix-translation.com.ua^
+||fenkang.tech^
 ||fenqihome.com^
 ||fenrunwayradiant.com^
 ||fensifuligo.com^
@@ -74534,6 +74537,7 @@
 ||genieessp.com^
 ||genieessp.jp^
 ||genieesspv.jp^
+||genigh.com^
 ||genishury.pro^
 ||genistawabbler.com^
 ||geniusbanners.com^
@@ -78427,6 +78431,7 @@
 ||hesxz.com^
 ||hetaint.com^
 ||hetapus.com^
+||hetartwg.com^
 ||hetaruvg.com^
 ||hetaruwg.com^
 ||hetchi.com^
@@ -82910,6 +82915,7 @@
 ||in.aikan6.com^
 ||inamoon.kr^
 ||in.analytics.glance.inmobi.com^
+||inanemuseum.com^
 ||inapadvance.com^
 ||in.api.clevertap.com^
 ||inapi.flygame.io^
@@ -92867,6 +92873,7 @@
 ||luojianrong.cn^
 ||luolikong.net^
 ||luomanzhubao.cn^
+||luopqsao.top^
 ||luoshenbest.com^
 ||luotediao.net^
 ||luoyuanedu.cn^
@@ -98981,6 +98988,7 @@
 ||mjp-analytics.ximad.com^
 ||m.jpenk.com^
 ||mjpiqb.cn^
+||mjrdficwuyy.top^
 ||m.jrfydn.cn^
 ||mjs.csyymp4.com^
 ||mjs.lzmmil.cn^
@@ -100667,6 +100675,7 @@
 ||mr5aqoqlegsp.com^
 ||m.r5ozdv.top^
 ||mrace.hopto.org^
+||mradx.net^
 ||mraidjs.adtilt.com^
 ||mraid.presage.io^
 ||mraid.prod.cloud.ogury.io^
@@ -106029,6 +106038,7 @@
 ||oekh0.yinduhong.cn^
 ||oekotest.ivwbox.de^
 ||oekwa.voluumtrk.com^
+||oelco.cn^
 ||oem.cnrghj.cn^
 ||oende.cn^
 ||oesfriences.fun^
@@ -106043,6 +106053,7 @@
 ||oewa.oewabox.at^
 ||oe.wbeis.com^
 ||oewdfyhdfq.xyz^
+||oey53uw-1ye.cn^
 ||oe.zbttxs.com^
 ||of3ga.voluumtrk.com^
 ||of.adsmogo.com^
@@ -110438,8 +110449,10 @@
 ||picket0.com^
 ||pic.kewke.com^
 ||pickgolfup.com^
+||picklesadamantempire.com^
 ||pickmeupnews.us.intellitxt.com^
 ||pick-savings.com^
+||pickupmorbid.com^
 ||pickyourplum.hasoffers.com^
 ||pickytime.com^
 ||piclect.com^
@@ -114322,6 +114335,7 @@
 ||pulpix.com^
 ||pulpsbarndomed.com^
 ||pulpyads.com^
+||pulsarback.mail.ru^
 ||pulsar.ebay.com^
 ||puls-biznesu.info^
 ||pulsbiznesu.xyz^
@@ -115270,6 +115284,7 @@
 ||qlqd5zqefmkcr34a.onion.pet^
 ||qlqtnqlruou.com^
 ||qlssbq.cn^
+||qlsvowqnbzu.com^
 ||qlubfrance.carte-gr.total.fr^
 ||qluutrppsh.com^
 ||ql.uzuzuz.com^
@@ -118171,6 +118186,7 @@
 ||rj.m.taobao.com^
 ||rjmwqf.com^
 ||rjnc0.voluumtrk.com^
+||rjnjjin.cn^
 ||rjs.niuxgame77.com^
 ||rjtpos.cn^
 ||r.juxuyun.com^
@@ -118638,6 +118654,7 @@
 ||roxyaffiliates.com^
 ||royalads.net^
 ||royalalpaca.com^
+||royalcactus.com^
 ||royal-cannabis-seeds-nirvanashop.netdna-ssl.com^
 ||royal-cash.com^
 ||royalcount.de^
@@ -122696,6 +122713,7 @@
 ||sensismediasmart.com.au^
 ||sensitivenessbuttons.com^
 ||sensitivenesscrummytea.com^
+||sensorcyclegloves.com^
 ||sensor.org.ua^
 ||sensors.cloud.tencent.com^
 ||sensorsdata.ruguoapp.com^
@@ -128104,6 +128122,7 @@
 ||sqm.telemetry.microsoft.com.nsatc.net^
 ||sqm.woniu.com^
 ||sqmydhk.cn^
+||sqnrxhisgsmye.top^
 ||sqnwmwnwok.com^
 ||sqpgncbm.com^
 ||s.qqhpg.com^
@@ -129792,6 +129811,7 @@
 ||statis.kankan.xunlei.com^
 ||statis.mobile.youku.com^
 ||statis.push.netease.com^
+||statistic2.reichelt.de^
 ||statistic.adcat.biz^
 ||statistic.ads24h.net^
 ||statistic.batdongsan.com.vn^
@@ -134756,6 +134776,7 @@
 ||thanos.xiaojukeji.com^
 ||thansendmaterial-14.live^
 ||thapi.flygame.io^
+||thapsooz.net^
 ||thaqyl.mediamarkt.nl^
 ||tharbadir.com^
 ||tharringtonsponsorship.com^
@@ -141170,6 +141191,7 @@
 ||undefined.fls.doubleclick.net^
 ||undefined.it^
 ||undefined.vindicosuite.com^
+||undens.com^
 ||under2given.com^
 ||underclick.ru^
 ||undercoverbatch.com^
@@ -141674,6 +141696,7 @@
 ||up.wps.kingsoft.com^
 ||up.youzu.com^
 ||upz1.destinia.lt^
+||uqakkye.cn^
 ||uqbmzwv.cn^
 ||u.qiaobaba.top^
 ||uqidian.com^
@@ -148413,7 +148436,6 @@
 ||w3orgstats.us^
 ||w3.ting55.com^
 ||w3.vitrade.de^
-||w3.wodeshougong.com^
 ||w3.yinyuehu.cn^
 ||w40.am15.net^
 ||w41.am15.net^
@@ -169241,6 +169263,7 @@
 ||xratedtracking.com^
 ||xratt15.sky1818.net^
 ||xray.jebe.renren.com^
+||xray.mail.ru^
 ||xrchmz.mobafire.com^
 ||xrdatsuclxrvpx.com^
 ||xrea.com^
@@ -171401,6 +171424,7 @@
 ||zgtcar.com^
 ||zgty365.com^
 ||zgunion.cn^
+||zgvcfridw.com^
 ||zgwalconadziewczyna.eu^
 ||zgwalconadziewczyna.online^
 ||zgwalconadziewczyna.site^
