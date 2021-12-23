@@ -1749,12 +1749,14 @@ _300x250.
 3dmgame.com##.downl_L > span[style="display:none;"] + div[class]
 3dmgame.com##.downl_L > style + div
 3dmgame.com##.downlwrap > style + div
+3dmgame.com##.downlwrap>style+span+div
 3dmgame.com##.fell_left_advertisement
 3dmgame.com##.Gmaeinfobtn_tab > a[class][onclick]
 3dmgame.com##.Gmaeinfobtn_tab > a[href$="();"]
 3dmgame.com##.Gmaeinfobtn_tab > a:not([class*=" "])
 3dmgame.com#?#.Gmaeinfobtn_tab > div[class]:-abp-has(>div[class]> div[class]:-abp-contains(高速下载))
 3dmgame.com##.Gmaeinfobtn_tab > span + a
+3dmgame.com##.Gmaeinfobtn_tab>span+a+a
 3dmgame.com##.Gmaeinfobtn_tab > .tab:nth-child(2)
 ||3dmgame.com/img/a/640-
 ||3dmgame.com/index.php?m=games&c=index&a=ad&
@@ -3062,10 +3064,6 @@ _728_90_
 ||9377.com$third-party
 ||9377.com/api/client_data_receive.php?
 ||9377.com/tg/xiguamini/?
-@@||939394.org/ad-blocker.js
-939394.org##.j_r_ad
-939394.org###left_layer
-939394.org##.submenu > a
 ||941adu.com$third-party
 ||941novel.com/wp-content/uploads/*.gif
 ||9453hot.com^$popup
@@ -5784,6 +5782,7 @@ at3.doubanio.com
 @@||atanx.alicdn.com/t/tanxssp.js$domain=alimarket.tmall.com|www.taobao.com|www.tmall.com
 @@||atanx.alicdn.com/t/tanxssp.js$domain=taojinbi.taobao.com
 atao.biz,51.lang.pe,51.vlook.xyz,cp001.xyz,tb001.xyz,cp.vwan.xyz,1024.pe,lang00.com,lang51.com,51.vgan.pw,wan1024.com,1024.cao.pe,su1024.xyz,cp.xtao.xyz,vmen.xyz,at.ilovegao.com.2p8.space,at.ilovegao.com.2c2.website,qq88.space##img[width="600"][height="75"],img[width="950"][height="60"],div#textggs,img[width="474"][height="180"],img[width="760"][height="60"],img[width="760"][height="80"],img[width="760"][height="120"],img[width="300"][height="250"],img[width="230"][height="75"],img[width="230"][height="315"],img[width="230"][height="235"],img[width="100"][height="160"],div#middleimg,a[href="/url/vns230.html"],[style="margin-top:5px;margin-bottom:5px;"],[style="margin-top:5px;"],#adx_kppp
+##A[target="_blank"][href*="/bet188/"]
 ##a[target="_blank"] > img[src*=".bitautoimg.com/"][src$=".gif"]
 ||a.tbcdn.cn/s/ac.js
 ||a.tbcdn.cn/s/atp.js
@@ -5824,9 +5823,8 @@ atyun.com###r_banner > ul > li > a[href^="http"]:not([href*="atyun."])
 ||audid-api.taobao.com
 ||audid-api.taobao.com/v2.0/a^$third-party
 audiofanzine.com#$#abort-on-property-read TextDecoder; abort-on-property-read require; abort-current-inline-script _audiofanzineProductStack
-audiofanzine.com##li[class$="-products"], li[class$="-offer"] , div[class$="-img"], div[class$="-label"]
+audiofanzine.com#$#hide-if-matches-xpath './/img[contains(@src,"/advert/label-ad-")]/parent::div[1]'
 ||audiofanzine.com/sorrier^$script
-audiofanzine.com##ul[class^="audiofanzineProductBanner"]
 audio-hi-fi.ru,electro-sila.ru##.blok_new > div[style]
 ||au.download.windowsupdate.com
 aupetitparieur.com#$#freeze-element .widget-area abort
@@ -6959,6 +6957,9 @@ bendibao.com##DIV[id^="f21ac82b21eeb7322631b6aa94e17f"]
 ||bendibao.com*/tuangou.gif
 ||bendibao.com/weixin_
 bendibao.com###wxbox
+benxiang.com##.ad_duilian
+benxiang.com##.ad_ld
+benxiang.com##.w-hot-link-txt
 benyixiwang.com#?#p:-abp-has(a[href="http://www.sm9166.com"])
 benyixiwang.com##p img[src*=".dlssyht.cn/u/"][title]
 ||bepolite.eu
@@ -9888,7 +9889,7 @@ dasai8.com##.L > font[color="#0000FF"]
 /data/ads/*
 ||data.ads.oppomobile.com
 /data/attachment/ad/*
-/\/data\/cache\/(?!(common\.|common_extra\.|forum|home\.|portal\.|seditor|smilies))[a-z_]+\.js/$script,domain=pcbeta.com
+/\/data\/cache\/(?!(common\.|common_extra\.|forum\.|forum_viewthread\.js|home\.|portal\.|seditor|smilies))[a-z_]+\.js/$script,domain=pcbeta.com
 /data/cache/logging.js?
 /data/cache/myad-
 ||dataf.ads.oppomobile.com
@@ -12858,7 +12859,7 @@ _good_id=
 @@||googleads.g.doubleclick.net/favicon.ico$domain=loi1901.com
 googleads.g.doubleclick.net###mys-wrapper
 @@||googleads.g.doubleclick.net/pagead/ads$subdocument,third-party,domain=~afreesms.com
-@@||googleads.github.io/videojs-ima/node_modules/video.js/dist/video-js.min.css$domain=ulifestyle.com.hk
+@@||googleads.github.io/videojs-ima/node_modules/video.js/dist/video$domain=ulifestyle.com.hk
 ||googleadsl.com^$third-party
 ||googleanalysis.mobi
 ||google-analytics.com
@@ -15177,7 +15178,7 @@ inforesist.org##aside[id="execphp-30"]
 inforesist.org##aside[id="text-3"]
 inforesist.org##aside[id="text-39"]
 inforesist.org##aside[id="text-44"]
-informator.ua,kriminal.tv,4studio.com.ua,112ua.tv,newsoneua.tv,zikua.tv,gorodkiev.com.ua,volynpost.com,uanews.org.ua,dialogs.org.ua,technoportal.com.ua,pingvin.pro,fakty.ua,cikavosti.com,versii.if.ua,mignews.com.ua#$#abort-on-property-read weekCallbacks
+informator.ua,kriminal.tv,4studio.com.ua,112ua.tv,newsoneua.tv,gorodkiev.com.ua,volynpost.com,uanews.org.ua,dialogs.org.ua,technoportal.com.ua,pingvin.pro,fakty.ua,cikavosti.com,versii.if.ua,mignews.com.ua#$#abort-on-property-read weekCallbacks
 .info/s.php?id=$script,third-party
 .info/topjs/
 ||info/topjs/
@@ -19602,7 +19603,7 @@ news.17173.com###ginfo,div.ad-zhanneituiguang
 ||news18a.com/image/ad_ina/
 news18a.com##.ina_ad_left
 news18a.com,tom.com##.ina_ad_class
-news24today.info,vnn24.ru,1news.com.ua,365news.biz,4mama.ua,4studio.com.ua,7days-ua.com,apnews.com.ua,argumentiru.com,asiaplustj.info,autotheme.info,beauty.ua,begemot-media.com,begemot.media,chas.cv.ua,cheline.com.ua,cikavosti.com,cn.ua,comments.ua,day.kyiv.ua,depo.ua,dnews.dn.ua,dv-gazeta.info,dyvys.info,economistua.com,edinstvennaya.ua,ekovolga.com,expert.in.ua,fedpress.ru,forpost.media,fraza.com,glavnoe.ua,glavnoe24.ru,glavpost.ua,golosinfo.com.ua,gorodkiev.com.ua,gov.ua,grad.ua,greenpost.ua,inforpost.com,itechua.com,iz.com.ua,khersonline.net,kolizhanka.com.ua,krymr.com,kurskcity.ru,liga.net,mi100.info,mind.ua,moirebenok.ua,mycompplus.ru,nakanune.ru,narodna-pravda.ua,nashbryansk.ru,newsoneua.tv,ngp-ua.info,novavlada.info,novynarnia.com,odessa-life.od.ua,pg11.ru,pingvin.pro,pl.com.ua,podpricelom.com.ua,politnavigator.net,poltava365.com,portal.lviv.ua,praktika-vlasti.com.ua,prm.ua,procherk.info,profootball.ua,radiosvoboda.org,ratel.kz,real-vin.com,risu.ua,rivnenews.com.ua,rusjev.net,russianshowbiz.info,semobile.com.ua,sport-kr.com.ua,sud.ua,superdom.ua,te.ua,telekritika.ua,ternopillive.com.ua,treebuna.info,tverigrad.ru,tverisport.ru,tvoymalysh.com.ua,uainfo.org,uanews.org.ua,uatv.ua,unn.com.ua,vchaspik.ua,versii.if.ua,vgolos.com.ua,viva.ua,volnorez.com.ua,volyninfo.com,volynpost.com,volynua.com,vsviti.com.ua,westnews.info,womo.ua,wpristav.ru,wworld.com.ua,zikua.tv,mignews.com.ua,zbirna.com,panoptikon.org,inkorr.com,kr.ua,rv.ua,oukr.info,zp.ua,np.pl.ua,ukrrain.com,reporter.ua,cvnews.cv.ua,ifnews.org.ua,lvnews.org.ua,rvnews.rv.ua,tenews.org.ua#$#abort-current-inline-script document.createElement /ru-n4p|ua-n4p|загрузка.../
+news24today.info,vnn24.ru,1news.com.ua,365news.biz,4mama.ua,4studio.com.ua,7days-ua.com,apnews.com.ua,argumentiru.com,asiaplustj.info,autotheme.info,beauty.ua,begemot-media.com,begemot.media,chas.cv.ua,cheline.com.ua,cikavosti.com,cn.ua,comments.ua,day.kyiv.ua,depo.ua,dnews.dn.ua,dv-gazeta.info,dyvys.info,economistua.com,edinstvennaya.ua,ekovolga.com,expert.in.ua,fedpress.ru,forpost.media,fraza.com,glavnoe.ua,glavnoe24.ru,glavpost.ua,golosinfo.com.ua,gorodkiev.com.ua,gov.ua,grad.ua,greenpost.ua,inforpost.com,itechua.com,iz.com.ua,khersonline.net,kolizhanka.com.ua,krymr.com,kurskcity.ru,liga.net,mi100.info,mind.ua,moirebenok.ua,mycompplus.ru,nakanune.ru,narodna-pravda.ua,nashbryansk.ru,newsoneua.tv,ngp-ua.info,novavlada.info,novynarnia.com,odessa-life.od.ua,pg11.ru,pingvin.pro,pl.com.ua,podpricelom.com.ua,politnavigator.net,poltava365.com,portal.lviv.ua,praktika-vlasti.com.ua,prm.ua,procherk.info,profootball.ua,radiosvoboda.org,ratel.kz,real-vin.com,risu.ua,rivnenews.com.ua,rusjev.net,russianshowbiz.info,semobile.com.ua,sport-kr.com.ua,sud.ua,superdom.ua,te.ua,telekritika.ua,ternopillive.com.ua,treebuna.info,tverigrad.ru,tverisport.ru,tvoymalysh.com.ua,uainfo.org,uanews.org.ua,uatv.ua,unn.com.ua,vchaspik.ua,versii.if.ua,vgolos.com.ua,viva.ua,volnorez.com.ua,volyninfo.com,volynpost.com,volynua.com,vsviti.com.ua,westnews.info,womo.ua,wpristav.ru,wworld.com.ua,mignews.com.ua,zbirna.com,panoptikon.org,inkorr.com,kr.ua,rv.ua,oukr.info,zp.ua,np.pl.ua,ukrrain.com,reporter.ua,cvnews.cv.ua,ifnews.org.ua,lvnews.org.ua,rvnews.rv.ua,tenews.org.ua#$#abort-current-inline-script document.createElement /ru-n4p|ua-n4p|загрузка.../
 /news_ad
 */news_ad$subdocument
 news.baidu.com###detail-HotScrollNews-wrapper
@@ -19987,6 +19988,7 @@ nv.ua##img[src="/images/dis_blocker_big.jpg"]
 ||nvwlm.com$third-party
 nwell.net##.f14hui[width="25%"]
 ||nwxs5.com/js/
+||nxhh.net/gw/gw.js
 nxing.cn##.boxclose
 nxing.cn##.boxclose,[href*=".taobao.com/"]
 nxing.cn##.main:nth-child(-n+6)
@@ -20314,6 +20316,7 @@ p9.com.tw##.contentRightAd
 ||pacd.3conline.com/$script
 ||package12.com/index.php?id=
 @@||padsdel.com^$image,subdocument,domain=bitzfree.com
+||p*-ad-sign.byteimg.com^
 @@||padstm.com^$image,subdocument,domain=bitzfree.com
 ||padstm.com^$third-party
 ||pagead.
@@ -20704,6 +20707,7 @@ pcsoft.com.cn##a[onclick*="_ad"]
 pcsoft.com.cn##div[style^="width:100px;height:300px;position:fixed;"]
 pcsoft.com.cn##.gsxz
 pcsoft.com.cn##.gsxzdl
+pcsoft.com.cn##iframe[id]
 pcsoft.com.cn##.qrcode_show
 pcsoft.com.cn##.shang11-top
 pcsoft.com.cn#@#.share_box
@@ -21411,7 +21415,6 @@ pssite.com#@#.adver
 ||pstatp.com/origin/pgc-image/19cc5443033e4a67b040446b5b7a8ce0
 ||pstatp.com/origin/pgc-image/97847e640bfc4e548b7e191286f72a05
 ||pstatp.com/origin/pgc-image/bb1f8fa973424b948956ac92c0360f75
-||pstatp.com/origin/pgc-image/bb2ebb31f0964de3b36ba5f5b6fcc521
 ||pstatp.com^*/push.js
 ||pstatp.com/site/reads-sdk/
 ||pstv.tv/pstv.jpg
@@ -24676,7 +24679,6 @@ televizeseznam.cz##img[alt="Reklama"]
 telexplorer.com.ar#$#abort-current-inline-script MutationObserver compareDocumentPosition
 ||tellvi.cn^$third-party
 /template/23ttav/js/aa.htm
-/template/939394/img/bet188/*
 /template/*/adm/*
 /template/*/ads/*
 /template/bingfeng/statics/js/pingbi.js
