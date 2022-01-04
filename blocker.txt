@@ -24396,11 +24396,13 @@ qq.com##.J_hot_game
 qq.com###J_inner_tips
 qq.com##.jpBanner
 ||qq.com/js/adswf_tl_object.js$script
+qq.com##+js(aeld,pause)
 qq.com##+js(json-prune,ad,vinfo)
 qq.com##+js(nano-sib, \u5012\u8ba1\u65f6)
 qq.com##+js(no-fetch-if, /\b(b?trace|beacon)\./)
 qq.com##+js(no-xhr-if, /\b(b?trace|beacon)\./)
 @@||qq.com/json/mms/nativeads/rankings.json
+qq.com##+js(set, Beacon.prototype.fail, null)
 ||qq.com/livemsg?
 qq.com##.main_ad_bottom
 qq.com##.main_ad_top
@@ -24414,6 +24416,7 @@ qq.com##.mod_ad_main
 qq.com##.mod_ad_side
 qq.com##.mod_ad_square
 qq.com##.mod_ad, .txp_ad, div.l_qq_com, .txp-watermark, .txp_ad_link
+qq.com##.mod_ad, .txp_ad, div.l_qq_com, .txp-watermark, .txp_ad_link, .txp_zt_video
 qq.com##.mod_custom_ad
 qq.com##.mod-download-tips
 qq.com##.mod_float_banner
@@ -29780,6 +29783,7 @@ vx666.com##.async[href^="http"]
 vyk.admaster.com.cn
 v.youku.com##.control-phonewatch,#right-title-ad-banner,div.youku-layer-logo
 v.youku.com##div#dragDIV,div.listcontrol
+v.youku.com##+js(aeld,dblclick,triggerEvent)
 v.youku.com##+js(aeld,dblclick,ykplayer.switchFullscreen)
 v.youku.com##.laifeng
 vzhuan.cn###box
