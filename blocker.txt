@@ -574,6 +574,7 @@
 ##.ctm_ad
 ##.customSlideshow-ad-below
 ##.d_banner_inner
+##.davwheat-ad
 ##.dipiao
 ##.div-search-box.col-lg-offset-2.col-lg-8 > a[href^="http"][target="_blank"]
 ##.div.ps_
@@ -956,6 +957,7 @@
 ##a[href*=".downok.com"]
 ##a[href*=".dpcpfw.com/"]
 ##a[href*=".ex068.com"]
+##a[href*=".fancyzf.com/"]
 ##a[href*=".fllkf.com/"]
 ##a[href*=".gongnou.com/"]
 ##a[href*=".gotourls.bid"]
@@ -1028,6 +1030,7 @@
 ##a[href*=".xxmh727.com/"]
 ##a[href*=".xxmh735.com/"]
 ##a[href*=".xxmh779.com/"]
+##a[href*=".xxmh920.com/"]
 ##a[href*=".yabo414.com"]
 ##a[href*=".yabo816.com"]
 ##a[href*=".yabo824.com"]
@@ -1230,6 +1233,7 @@
 ##div[id][style="width: 100%;"] > iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
 ##div[id^="a"] > a[target="_blank"][style="margin-top:3px;"]
 ##div[id^="ad_thread"]
+##div[id^="adv-"].adv
 ##div[id^="div-gpt-ad"]
 ##div[id^="photo-header-title-content-text-dall"]
 ##div[onclick*=".8tse9.com"]
@@ -4224,7 +4228,7 @@ $websocket,domain=5nj.com|cechi8.com
 0579.cn##.adv
 0579.cn,xizi.com##.top_gg
 0594.com##div[id^="PCMSAD_"]
-0594.com,164580.com,appinn.com,appledaily.com.tw,china.com,chinamedevice.cn,cnodejs.org,danyang.com,doyouhike.net,e3zy.com,haokan5.com,hc360.com,helloavgirls.com,meiyouad.com,qq.com,sina.com,sogou.com,timeon.cn,tongren.gov.cn,uc123.com,up01.cc,wasu.cn,wdjm.com.cn,wokao.co,yeeyi.com##.ads
+0594.com,164580.com,2234.cn,appinn.com,appledaily.com.tw,china.com,chinamedevice.cn,cnodejs.org,danyang.com,doyouhike.net,e3zy.com,haokan5.com,hc360.com,helloavgirls.com,meiyouad.com,qq.com,sina.com,sogou.com,timeon.cn,tongren.gov.cn,uc123.com,up01.cc,wasu.cn,wdjm.com.cn,wokao.co,yeeyi.com##.ads
 0597kk.com###cool_fixed
 0597kk.com###kk_content1_left_ad1
 0597kk.com###kk_head_ad
@@ -4235,6 +4239,7 @@ $websocket,domain=5nj.com|cechi8.com
 0597kk.com##div[style="width:960px; overflow:hidden; margin:2px auto; "]
 0597kk.com##img[src^="http://pic.0597kk.com/pic/"],li.mobile_download,div.kk_ad,embed[src^="http://pic.0597kk.com/pic/"],div#kk_content1_left_ad1,div#cool_fixed,[id^="ads_c_"],div.radioBox,table#bbsTopBanner,img[width="370"][height="30"],div.ad-text,div#kk_oTransContainer2,img[src^="http://pic1.0597kk.com/attachment/pushpic/"],.lyhux_mu,.a_pt,[altname="lai_tourism-adtop"],#kk_head_ad,#kk_redianhuodong,[id^="kk_under_"],.a_pr,#qrcodeDownloadBar
 0597kk.com##img[width^="37"][height="30"]
+0597kk.com,tool.lu##.recommend-container
 0597ok.com##.div_ad
 0597ok.com##div.div_ad,embed[src^="http://f.0597ok.com/ilike/597/"],div.zyflnews,div.divtop,div.btnleft,div.btnright,img[src^="http://f.0597ok.com/ilike/597/"]
 0597ok.com,nongjitong.com##.div_ad
@@ -4831,6 +4836,8 @@ $websocket,domain=5nj.com|cechi8.com
 21yq.com##div[style^="width:980px;height:80px;"]
 21yq.com,yaolan.com###AD1
 2200book.com##div.read_banner
+2234.cn##.btngs
+2234.cn##.pc-down_url_left > .pull-left
 2258.com##.rbananers,.content_ad_300,.topbananer,.idx-ad1,[src^="http://yule.2258.com/ad/ad_"]
 22ccaa.com##[src*="sinaimg.cn/"],[href="/sp.html"],.top1_box.box,.DaKuang,#bdshare
 22vd.com##.widget_custom_html:last-child
@@ -5085,7 +5092,7 @@ $websocket,domain=5nj.com|cechi8.com
 3987.com##.showdown > .mt20:first-child
 3987.com,588230.com###hongbao
 3987.com,588230.com,pilipali.cc###hongbao
-3987.com,downza.cn,drv5.cn,onlinedown.net,win7w.com##.gaosu
+3987.com,downza.cn,drv5.cn,onlinedown.net,pcsoft.com.cn,win7w.com##.gaosu
 3boys2girls.com###displayadb1
 3boys2girls.com###displayadbu3
 3boys2girls.com###div3_display3
@@ -5101,26 +5108,13 @@ $websocket,domain=5nj.com|cechi8.com
 3dezu.com##div#diynavtop,div[style="margin-bottom:-10px; overflow:hidden;"],div.bm.a_c,div.a_pt,div.a_pb,#login_alert,.a_f
 3dmgame.com###min_ad_con
 3dmgame.com###yxj_fmt_gg
-3dmgame.com##.Gmaeinfobtn_tab > .tab:nth-child(2)
-3dmgame.com##.Gmaeinfobtn_tab > a:not([class*=" "])
-3dmgame.com##.Gmaeinfobtn_tab > a[class][onclick]
-3dmgame.com##.Gmaeinfobtn_tab > a[href$="();"]
-3dmgame.com##.Gmaeinfobtn_tab > span + a
-3dmgame.com##.Gmaeinfobtn_tab > span + a+a
+3dmgame.com##.Gmaeinfobtn_tab > [class][onclick]
 3dmgame.com##.R_qingtianzhu
 3dmgame.com##.Tonglan
-3dmgame.com##.a_list
 3dmgame.com##.addvide300
 3dmgame.com##.adshop
-3dmgame.com##.downl_L > div[class]:not(.downl_list):not(.dllist):not(.feedback)
-3dmgame.com##.downl_L > span[style="display:none;"] + div[class]
-3dmgame.com##.downl_L > style + div
-3dmgame.com##.downlwrap > style + div
-3dmgame.com##.downlwrap > style + span + div
 3dmgame.com##.fell_left_advertisement
 3dmgame.com##.modAD
-3dmgame.com##.tab.downsd
-3dmgame.com##.tab[style^="background"]
 3dmgame.com##.tonglona_1
 3dmgame.com##.tonglona_2
 3dmgame.com##.tonglona_3
@@ -5128,10 +5122,7 @@ $websocket,domain=5nj.com|cechi8.com
 3dmgame.com##A[href^="http://web.3dmgame.com/h5/game?"]
 3dmgame.com##DIV.QZmainR > DIV.R1,.ad_top,.adad,[class^="youdao"],[id^="clickbg"],.dowl-rgg,#box.box
 3dmgame.com##a[href^="https://down.hyds360.com/"] > div[style]
-3dmgame.com##a[onclick^="goxiazai"]
-3dmgame.com##div[class$=" downl_list"]
-3dmgame.com##div[class^="downl_list "]
-3dmgame.com##p + div + .downl_list
+3dmgame.com#?#.downl_list:-abp-has(style)
 3dpianyuan.net##div#frameWu92km,div#djscontent,div[style="float:left;margin-top:5px"]
 3g.163.com##.m_pbpb_img,.m_pbpb_m1,.m_pbpb_m0,[id^="yx-"],div.a_topad,.article_ad,div.bottombanner-contain,div.fuck-qq-1,.a_adtemp,.m_papa_m1,.m_papa.papa-item
 3g.163.com##.ne_rps
@@ -5262,6 +5253,7 @@ $websocket,domain=5nj.com|cechi8.com
 51credit.com##.credit-box
 51credit.com##.main-r-ka
 51credit.com,ck101.com,hkepc.com##tbody[id^="normalthread_"] + tbody:not([id])
+51credit.com,hkepc.com##tbody[id^="normalthread_"] + tbody:not([id])
 51cto.com###ADsList
 51cto.com###edu_adver
 51cto.com###f_close_box
@@ -5951,7 +5943,6 @@ $websocket,domain=5nj.com|cechi8.com
 @@/api/ads?$domain=nmkjxy.com
 @@/bag2?r[]=*&r[]=$domain=free.com.tw
 @@/bannerAds/*$domain=yuanchuan.cn
-@@/beacon.min.js$domain=qq.com
 @@/common/cf/*$domain=66u.com|changhong.com|fei3d.com|oneplusbbs.com|readboy.com
 @@/cpc_cpm_$domain=ygo-sem.cn
 @@/fingerprint2.$domain=nfmovies.com
@@ -5960,7 +5951,7 @@ $websocket,domain=5nj.com|cechi8.com
 @@/fingerprint2.min.js$domain=csdn.net|neets.cc|passport.vpgame.com
 @@/fingerprintjs2.min.js$domain=imooc.com
 @@/fuckadblock.$domain=bde4.com|ck101.com|datehub.co|dilidili.one|golangnote.com|lnk2.cc|nfmovies.com|papalah.com|qqdie.com
-@@/fuckadblock.$domain=ck101.com|datehub.co|golangnote.com|joyk.com|liumingye.cn|lnk2.cc|papalah.com|poedb.tw|share1223.com
+@@/fuckadblock.$domain=datehub.co|golangnote.com|joyk.com|liumingye.cn|lnk2.cc|papalah.com|poedb.tw|share1223.com
 @@/guanggao/*$domain=icbc.com.cn|igame.qq.com
 @@/hitCount.$script,domain=on.cc
 @@/hitCount_$xmlhttprequest,domain=on.cc
@@ -6068,9 +6059,13 @@ $websocket,domain=5nj.com|cechi8.com
 @@||51img1.com/??*/adsys.
 @@||51job.com^$generichide
 @@||51jobcdn.com/im/images/ads/$domain=51job.com
+@@||520call.me/ad/ad_1.php
 @@||520call.me/jspopunder.
 @@||520call.me^$generichide
 @@||520cc.cc/ad*.js
+@@||520cc.cc/ad/ad_1.php
+@@||520cc.cc/api/jspopunder.
+@@||520cc.cc/jspopunder.
 @@||5278.cc/static/image/common/ad_close.gif
 @@||5278.cool^$generichide
 @@||52xiyou.com$domain=9377.com|52guoguo.cn
@@ -6152,7 +6147,6 @@ $websocket,domain=5nj.com|cechi8.com
 @@||adobedtm.com^*/satelliteLib-$script,domain=samsungmembers.cn
 @@||adoi.cn^$generichide
 @@||ads.cdn.tvb.com^*.key
-@@||ads.ck101.com/www/delivery/asyncjs.php
 @@||ads.privacy.qq.com^$domain=privacy.qq.com
 @@||ads.tiktok.com^$generichide
 @@||ads.tiktok.com^$~third-party
@@ -6215,7 +6209,6 @@ $websocket,domain=5nj.com|cechi8.com
 @@||appledaily.com.tw^*_ad_logo.
 @@||appledaily.com/js/nxm_
 @@||aqy103.com/js/aqy/main.js
-@@||ark.letv.com/adx?adzone=
 @@||assets.giocdn.com/2.1/gio.js$domain=saicmg.com
 @@||astyle.alicdn.com/??
 @@||atanx.alicdn.com/t/tanxssp.js$domain=alimarket.tmall.com|www.taobao.com|www.tmall.com
@@ -6396,6 +6389,7 @@ $websocket,domain=5nj.com|cechi8.com
 @@||da.mgtv.com/m5/page?
 @@||daoju.qq.com/time/*/js/ad/
 @@||data.mistat.xiaomi.com
+@@||daziba.cn/Images/share.css
 @@||delivery.wasu.cn/crossdomain.xml
 @@||dictionary.search.yahoo.com/beacon/sc?&ajaxdd=tabsCard&
 @@||digiland.tw/advert.js
@@ -6682,7 +6676,6 @@ $websocket,domain=5nj.com|cechi8.com
 @@||lnk2.cc^$generichide
 @@||lobi.co/1/track/event/
 @@||loc.map.baidu.com/sdk.php$app=com.baidu.BaiduMap
-@@||log.mmstat.com^$script,domain=youku.com
 @@||logcg.content-delivery.top/wp-content/plugins/bwp-minify/min/?f=
 @@||loltmcheck.com/js/ads.js
 @@||ltzn.9377.com^
@@ -6722,6 +6715,7 @@ $websocket,domain=5nj.com|cechi8.com
 @@||mmgd.xyz^$generichide
 @@||mmiyue.com/zhenbuka2/statics/js/guanggao.js
 @@||mmstat.com/eg.js$domain=1688.com|taobao.com|tmall.com|tudou.com|youku.com
+@@||mmstat.com^$domain=youku.com
 @@||mmuu22.link^$generichide
 @@||mmy.la^*300*250
 @@||mnighthk.net/template/*/ad
@@ -7012,6 +7006,7 @@ $websocket,domain=5nj.com|cechi8.com
 @@||udnplay.com/js/momo/adsbygoogle.js
 @@||udp2p.com^$generichide
 @@||ujinbi.com/UpLoadFile/guanggao/
+@@||ulifestyle.com.hk/store/prod/iskypost/res/js/dfp-
 @@||union.bokecc.com/player
 @@||union.video.qq.com/fcgi-bin/data?$script
 @@||union2.50bang.org^$third-party
@@ -7240,7 +7235,7 @@ acgdoge.net,acglala.me,chinalawedu.com,douyu.com,dzbhdm.net,gmgard.com,hggard.co
 acgdoge.net,chinalawedu.com,douyu.com,gmgard.com,hggard.com,iqiyi.com,jinti.com,youku.com##a[href*=".tmall.com"]
 acggd.com##a[href*=".apk"]
 acgking.com##.asst
-acgking.com,dbtmn.com,typin.cn##.asst
+acgking.com,dbtmn.com##.asst
 acglala.me##a[href*=".h-ero.games"]
 acglala.net##.gg_img
 acglala.net,boke112.com,ruanyifeng.com,techug.com,vaikan.com,webhek.com##a[href^="http://t.cn/"]
@@ -8374,6 +8369,7 @@ cctime.com###ad_three
 cctime.com###nav_banner,[id^="ad_"],[id$="_ad"],[height="80"],[height="90"],[height="100"]
 cctime.com##.nav_banner
 cctime.com,ck101.com,doyo.cn###top_banner
+cctime.com,doyo.cn###top_banner
 cctv.com###bgAd_div
 cctv.com##.anime_ewm
 cctv.com##[id^="div-gpt-ad-"],[src^="http://pubads.g.doubleclick.net/gampad/"],.adv
@@ -8620,12 +8616,8 @@ cjn.cn##aside.sidebar.art-ad,ASIDE#slidelr,DIV.sidebar,IMG[src^="http://img.cjn.
 cjw123.com##a[href="http://tb.cjw123.com"]
 ck101.com###av_a
 ck101.com###canvas-section
-ck101.com###image_ad_long
 ck101.com###popupGameAd
-ck101.com###sideAds1
 ck101.com##.a_cn,.adsbygoogle,#image_ad_long,#image_ad_short,.imgAd,.adTopBox,[id^="sideAds"],.ad728Top,.viewthread_announcements
-ck101.com##.ad728Top
-ck101.com##.adTopBox
 ck101.com##.ad_logo
 ck101.com##.adfixWp
 ck101.com##.btn_dw_app
@@ -8714,6 +8706,7 @@ cnbeta.com$$span[class="fr"]
 cnbeta.com,itboth.com,itkeyword.com,ruyo.net##a[href*="cloud.tencent."]
 cnbeta.com,qudong.com##a[href*=".ctyun."]
 cnbeta.com,sojson.com##a[href*=".upyun."]
+cnblogs.com###cnblogs_c2
 cnblogs.com###div_digg
 cnblogs.com###xiaociguai
 cnblogs.com##.adPopup
@@ -8853,7 +8846,7 @@ coolaler.com###hd
 coolapk.com##P.under_title,DIV.under
 coolapk.com##[style*="position: fixed;bottom: 0"]
 coolapk.com##div[style="width:728px;height:90px;margin:5px auto;"]
-coolhii.com,tgys.tv###bottommob
+coolhii.com###bottommob
 coolinet.com##.section-banner
 coolpc.com.tw##TD[onclick="cancelBubble()"]
 coral.qq.com##div[id^="PL_ad_cmt_"],div.mod-ad
@@ -9029,7 +9022,7 @@ dalipan.com##.hongbao-wrap
 daman.cc##DIV#p-left,DIV#p-right,[class^="ad980"]
 dancering.cn##.a_h
 dandanplay.com##div[id$="_ad"],iframe[width="720"][height="90"]
-dandanzan.top,nunuyy1.*##.gm-fp-body video:style(max-height:100% !important;height:100% !important)
+dandanzan.top,nunuyy1.*##.gm-fp-body video:style(max-height:100%!important)
 daniao.org,geekpark.net,speedtest.cn##.sponsor
 danlan.org##.ad98090
 danyang.com###global-hd > div[align="center"]
@@ -9319,6 +9312,8 @@ dragon-guide.net##.container > .gutter:first-child
 drivers.160.com##div#sideBox
 drupalchina.cn##.rightbanner,#block-block-15,#header-banner
 drv5.cn###xzq
+drvsky.com###bz_position
+drvsky.com##.zhongdian
 dsqnw.com##.pads,.tmall_1111_left
 du00.cc##.ad250left,.ad250,.adsbygoogle
 duanwenxue.com##.qgzdwx
@@ -10010,6 +10005,15 @@ gamer.com.tw##.a-mercy-d:not([href*=".gamer."])
 gamer.com.tw##.b-list_ad
 gamer.com.tw##.goAPP
 gamer.com.tw##.iframe:last-child
+gamer.com.tw,papalah.com,pili.com.tw#@#.pub_300x250
+gamer.com.tw,papalah.com,pili.com.tw#@#.pub_300x250m
+gamer.com.tw,papalah.com,pili.com.tw#@#.pub_728x90
+gamer.com.tw,papalah.com,pili.com.tw#@#.text-ad
+gamer.com.tw,papalah.com,pili.com.tw#@#.text-ad-links
+gamer.com.tw,papalah.com,pili.com.tw#@#.text-ads
+gamer.com.tw,papalah.com,pili.com.tw#@#.textAd
+gamer.com.tw,papalah.com,pili.com.tw#@#.text_ad
+gamer.com.tw,papalah.com,pili.com.tw#@#.text_ads
 gamersky.com##.dl_url:nth-child(4)
 gamersky.com##.ngg_down
 gamersky.com##header[class^="ymw-header20"]
@@ -10109,7 +10113,7 @@ ggdoc.com.cn#@#.addiv
 ghoffice.com##.tac > a > img[src*=".gif?"]
 ghoffice.com##[class="tac"],[class="mb5 tac cc"],[id^="ads_"],.textMes
 ghoffice.com,ksbbs.com,kshot.com##[id^="ads_"]
-ghxi.com##.ad_single_1
+ghxi.com##.ad_single_11
 ghxi.com#@#.social-item
 ghxi.com,mcdulll.com,pixnet.net##div[id*="-ad-"]
 gimy.tv##.playadbox
@@ -10278,9 +10282,6 @@ haianw.com###comiis_haianw01
 haianw.com###comiis_haianw13
 haianw.com###comiis_haianw14
 hainan.net##div.newsad420
-haitum.com##.container:style(max-width:90%!important;width:90%!important)
-haitum.com##.dplayer-web-fullscreen-fix .float-box, .dplayer-web-fullscreen-fix header
-haitum.com##.left-content:style(width:77%!important)
 halidown.com##.new_head_ad,#down_emptyids,[id^="movie_show_"]
 hall123.com,hi.people.com.cn,xizi.com##img[width="1000"]
 hamibook.com.tw##.custom-banners-cycle-slideshow
@@ -10584,7 +10585,6 @@ hlyy.cc##[src^="http://s1.limeishang.com:8081"],[width="960"],.ui-sponsor,[id$="
 hmog.me##.ml_ad_widget
 hmog.me##.side_widget:last-child
 hmog.me##a[href^="http://www.masadora.net/"]
-hmtv.me,imeiju.io##+js(acis,Object.defineProperty,location.href)
 hn.ifeng.com##.couplet,.fixed_ad
 hold168.com##.news_ggimg
 home.ifeng.com##.fengjc02
@@ -11780,7 +11780,6 @@ jx.la##[onclick*="apk"]
 jx.xinhuanet.com##.glgg,[height="86"],.flash,.flash2
 jx3pve.com##.m-banner-tool
 jxcn.cn,redianyule.com##.dsp_yxxf
-jxdbg.com##.adindex
 jxdbg.com##.indexmv
 jxedt.com###footer
 jxedt.com##.adlink1
@@ -11897,6 +11896,7 @@ kknews.cc,read01.com##.axslot
 kkpan.com,qqtn.com,smzy.com,yxdj.com.cn##.u-gs-btn
 kkw360.com##a[href^="https://sourl.cn/"]
 km.com##.downloadApp
+kmbb70.com###publicIndexBanner
 kmf.com##.g-kmf-906banner
 knowlet3389.blogspot.com,knowlet3389.blogspot.hk,knowlet3389.blogspot.jp,knowlet3389.blogspot.tw#@##gAds
 kocpc.com.tw###scroll_div
@@ -12942,7 +12942,7 @@ newsmth.net##.Smthtwenty_float
 newsmth.net##.b-content > #sogou_banner:nth-child(3)
 newsmth.net##.ns-ad
 newstorrentsspace.info##img[width="760"][height]
-newtalk.tw,tool.lu##.ad-container
+newtalk.tw##.ad-container
 newtalk.tw,toolfk.com##.ad-container
 newxue.com##.bd500
 newxue.com##.dashuggtop
@@ -13216,6 +13216,7 @@ pcdiy.com.tw##[width="160"][height="600"],.box-ads
 pcdown.net##.sort_list > .clearfix:first-child
 pcdown.net,xz7.com##.bzxz
 pcgames.com.cn##.aFollowb
+pchome.com.tw###div_superbar_swf
 pchome.com.tw###test2
 pchome.com.tw##.ad_triple
 pchome.com.tw##.adcon
@@ -13259,7 +13260,6 @@ pcpop.com##[id^=ad_],div.ad1,div.pcpop_ad1,div#banner9th
 pcrookie.com##[src^="//i2.wp.com/image.pcrookie.com/ad/"]
 pcsoft.com.cn##.gsxz
 pcsoft.com.cn##.gsxzdl
-pcsoft.com.cn##.qrcode_show
 pcsoft.com.cn##.shang11-top
 pcsoft.com.cn##.shuang11
 pcsoft.com.cn##.xzdz_huodong
@@ -13735,6 +13735,8 @@ qxfun.com###beautiful-things
 qxfun.com###reward-me > figure:nth-child(n+2)
 qyer.com###zpui-head-ad
 qyule.us,qyule.lol,qyule.tv,qyule.tw##.ads,.ads-player,.ads-footer,[width="190"][height="200"]
+qyun.vip##.tp_advertising
+qyun.vip##a[href*="/ad."]
 qyw0.com##.iad
 qyw0.com##.s11
 qz828.com##.topadv
@@ -13971,6 +13973,7 @@ seehd.so##.tac + table
 seemh.com##div.top_banner,div.mtb16.cf,div[style][class="mt10"],div[class^="gg_"]
 sejie4.com##.ad
 senao.com.tw#@#.ad-wrap
+senfun.net##.player-recommend
 seqing.world,singlove.com,whichav.com,whichav.net,wokao.co##.qq
 serengeseba.com##.content > li > a[href^="http"]
 seseda90.com###clone_ad
@@ -14852,10 +14855,6 @@ tools.2345.com##div.p-tps
 top81.com.cn##[class^="ad_"]
 topfo.com##[src="http://zs.topfo.com/zt/kdgj/img/300_85.gif "],img[width="960px"][height="90px"],.con.jj-dk01
 tophub.today##.ax
-tophub.today##.axx
-tophub.today##.c-d.c-d-e > .qc + div
-tophub.today##div[class^="ne"]
-tophub.today##div[class^="qc"]
 torkitty.com,torrentkitty.app,torrentkitty.io,torrentkitty.lol,torrentkitty.net,torrentkitty.se,torrentkitty.tv##a[href*="/aff_"]
 torrentkitty.app,torrentkitty.tv###fixedbanner
 torrentkitty.app,torrentkitty.tv##a[href*=".nordvpn.net/"]
@@ -15146,6 +15145,7 @@ v.qq.com##a[href*=".vip.com"]
 v.qq.com##a[href*="amway.com.cn"]
 v.qq.com##div.pop_ads_wide,div#QQlive_SP_RM.l_qq_com,DIV[class^="mod_ads mod_ads_main_"],iframe[src="http://games.qq.com/playgame/videoweb/videoweb.htm"],div[class^="mod_float_"],div.mod_ad,div.site_bg.site_bg_variety,.player_bg_ad,.top_banner,.mod_ads_play,#jimu-module-10,#jimu-module-11,.tvp_open_btns,[class^="txp_ad_"],.txp_ad,.figures_ad
 v.qq.com,bilibili.com,huya.com,le.com,mgtv.com,dandanzan.top,nunuyy1.*##+js(set, RTCPeerConnection, undefined)
+v.qq.com,bilibili.com,huya.com,le.com,mgtv.com,dandanzan.top,nunuyy1.*##+js(set, mozRTCPeerConnection, undefined)
 v.qq.com,bilibili.com,huya.com,le.com,mgtv.com,dandanzan.top,nunuyy1.*##+js(set, webkitRTCPeerConnection, undefined)
 v.sogou.com##[uigs^="adv_pc_adv"]
 v.sogou.com##a[href*="iwan.sogou.com/"]
@@ -15165,6 +15165,7 @@ v5bjq.com##.ad-Shrink,.ad960-90,.ad336-280,.gg810,.gg-wrap
 v5pc.com###full_downad
 v6p.co##iframe[SRC^="http://fans.bestvogue.com/fans/"]
 vafuli.com,v5gege.com##[id^="text-"],div.ad-widget,div[id^="jtheme-ad-"]
+vanpeople.com##.banneradv-newbox
 vansky.com##.safari_pop
 vansky.com##.scol-banner
 vansky.com##.top-ad-link
@@ -16327,7 +16328,7 @@ yaolan.com##div[id*="underHdAd"]
 yaolan.com##div[id^="bot_ad"]
 yatu.tv###a_d1
 yatu.tv##.dplayer-web-fullscreen-fix #tburl,#loadtop,[id^=myas],#myds1,#daohang
-yatu.tv,yhdm5.com##+js(set,document.oncontextmenu,trueFunc)
+yatu.tv,yhdm15.com##+js(set,document.oncontextmenu,trueFunc)
 yb983.com##div[id^="pop"]
 yc58.com###contain1
 ycwb.com##div.t2_720.fl,div.b2_220.fr,DIV.layout.clearfix > SPAN[style],div.adv-banner,div.adv-txt.clearfix
@@ -17400,6 +17401,7 @@ zznews.cn##.ad:not([style])
 ||22588888.com^$popup
 ||22ccaa.com$script
 ||22pixx.xyz/l/
+||230book.net/js/sweetcake.js
 ||2324av.com/Public/js/jquery.index.js
 ||2324av.com/zz/
 ||233.com/js/side.htm
@@ -18045,7 +18047,6 @@ zznews.cn##.ad:not([style])
 ||7m.cn/analyse/include/*_
 ||7m.cn/b1/$script
 ||7m.com.cn/b1/live_b
-||7mmtv.tv/hgame/
 ||7mmtv.tv/js/ad_js/
 ||7mmtv.tv/u_banner/
 ||7moor.com^$third-party
@@ -18982,6 +18983,7 @@ zznews.cn##.ad:not([style])
 ||autoimg.cn/engine/root/fggxl.js
 ||autonet.com.tw/90/
 ||av-yoyo.com/images/*.gif
+||av01.tv/av01/floating_video_ads
 ||av01.tv/images/partners/
 ||av30.xyz/cs/
 ||av6k.com/templets/default/%E5%A4%A7%E5%93%A5/ad.js
@@ -20508,6 +20510,7 @@ zznews.cn##.ad:not([style])
 ||dragon-guide.net/pic001/pic/shangcheng/
 ||dreamine.com^$third-party
 ||drupalchina.cn/sites/default/files/d
+||drvsky.com/js/jolimark.gif
 ||dsdsc.win
 ||dsp*.youdao.com
 ||dsp.lenovo.com.cn^*&clientType=api|
@@ -21245,8 +21248,6 @@ zznews.cn##.ad:not([style])
 ||hahamx.cn/upload/data/list_sidebar_
 ||hainei.org/union/
 ||haituie.com^*.gif
-||haitum.com/template/default/static/js/bottom.js^$script
-||haitum.com/template/default/static/js/middle.js^$script
 ||haiwainet.cn*/k.js
 ||haiwaiyy.com/B970X90.gif
 ||haiyuer.com/didi
@@ -23090,6 +23091,7 @@ zznews.cn##.ad:not([style])
 ||mmg.aty.sohu.com
 ||mmonly.cc/js/mmonlyAPP.js
 ||mmtalk.net/images/banner
+||mmys.net/js/mmys.
 ||mmys.net^*.php
 ||mn586.com^$third-party
 ||mnks.cn/jk/appAD_
@@ -24124,6 +24126,7 @@ zznews.cn##.ad:not([style])
 ||qyer.com^*/base_beacon_ga.js
 ||qyerstatic.com/common/models/common/component/footerBanner/
 ||qyule.fun/v-content/
+||qyun.vip/pic/*.gif
 ||qz828.com/css/2010/script/*ad
 ||qzone.la/Scripts/m.js
 ||qzonestyle.gtimg.cn/qzone/biz/ac/comm/$script
@@ -24885,9 +24888,8 @@ zznews.cn##.ad:not([style])
 ||szhk.com/iframe/
 ||szhk.com/include/taobao
 ||szhongzi.com/js/
-||szjjzs.com/js/as.js
+||szjjzs.com/js/csss.js
 ||szjjzs.com/js/dd.js
-||szjjzs.com/js/zb.js
 ||szkaidi.cn/statics/g
 ||sznews.com/*.files/$image,object
 ||sznews.com/s?z=
@@ -24963,7 +24965,6 @@ zznews.cn##.ad:not([style])
 ||tb58.net/plugin.php?id=tb58_
 ||tbcdn.cn/mm/tanxssp-custom/sina_
 ||tbtdg.com/img/2018s11.jpg
-||tbvv.net/qr.png
 ||tc.cn/ad123/
 ||tc.cn/g/dl.ashx?
 ||tc.cn/g/upload/
@@ -25268,9 +25269,6 @@ zznews.cn##.ad:not([style])
 ||txzqw.me/attachment88txzqw/*.gif
 ||txzqw.me/tupian/
 ||ty121.cn/IAA/
-||typin.cn/movie/images/1111.png
-||typin.cn/movie/tuijian
-||typin.cn/static/images/elm.png
 ||tz-dsp.com^$third-party
 ||tzfdc.com.cn/userfiles/flash/
 ||tzfdc.com/Images/09/flv/flv_index.js
@@ -25429,6 +25427,7 @@ zznews.cn##.ad:not([style])
 ||valipl.cp31.ott.cibntv.net/$media
 ||vamaker.com/$third-party
 ||vamaker.com^$third-party
+||vanpeople.com/gg/
 ||vansky.com/agdg/Individual/
 ||vansky.com/agdg/homegg/
 ||vansky.com/agdg/infoRight/
@@ -25889,8 +25888,8 @@ zznews.cn##.ad:not([style])
 ||www.xhgszy.com/inc^
 ||www.xiazaiba.com/data/xzb_haha.js
 ||www.yabet1477.com
-||www.yatu.tv:88/image/*.gif^$image
-||www.yatu.tv:88/m/images/$image
+||www.yatu.tv:2082/image/*.gif^$image
+||www.yatu.tv:2082/m/images/$image
 ||www.yb411.app
 ||www.yidianzixun.com/home/q/getrelatednewsall
 ||www.yingshidvd.com/js/common.js
@@ -26116,6 +26115,7 @@ zznews.cn##.ad:not([style])
 ||xn01.xyz^$third-party
 ||xng02.com/api.php?mod=ad&
 ||xnimg.cn^*/liveinc/rightlive.js
+||xnklgas.cn/common/getBannerList
 ||xnnews.com.cn/Templets/image/zyyy.swf
 ||xnnews.com.cn/Templets/js/*link
 ||xnnews.com.cn/adgl/
