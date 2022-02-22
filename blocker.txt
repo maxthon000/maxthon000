@@ -22719,7 +22719,6 @@ zznews.cn##.ad:not([style])
 ||localau.vip/plugin/pause.php
 ||localau.vip/plugin/show.php
 ||localau.vip/tccenter/ad/
-||localhost^
 ||lofter.com/$subdocument,third-party
 ||lofter.com/blogPhotoAd?
 ||lofter.com/blogphotoad
@@ -22732,7 +22731,6 @@ zznews.cn##.ad:not([style])
 ||log.ad.xiaomi.com
 ||log.tbs.qq.com
 ||log1.17173.com/
-||login.digicert.com.^
 ||logoquan.com/upload/prd/
 ||loldyttw.com/blr.js
 ||loldyttw.com/skin/lol/js/ds.js
