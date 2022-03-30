@@ -1086,6 +1086,7 @@
 ||a.track.sohu.com^
 ||a.tuizhuti.com^
 ||a.tvsou.com^
+||a.tyncar.com^
 ||a.umilu.com^
 ||a.vserv.mobi^
 ||a.wanzhuang.com^
@@ -1279,6 +1280,7 @@
 ||ad.jamster.co.uk^
 ||ad.jp.doubleclick.net^
 ||ad.jsnbrynb.com^
+||ad.juksy.com^
 ||ad.leadboltapps.net^
 ||ad.leadboltmobile.net^
 ||ad.lflucky.com^
@@ -1334,6 +1336,7 @@
 ||ad5.sina.com.cn^
 ||ad7.com^
 ||ad8.cc^
+||ad8888.top^
 ||ad9377.com^
 ||ada.baidu.com^
 ||adaccount.csdn.net^
@@ -1547,6 +1550,7 @@
 ||ads.superad.cc^
 ||ads.traffichunt.com^
 ||ads.ttv.com.tw^
+||ads.tvb.com^
 ||ads.uc.cn^
 ||ads.voiceads.cn^
 ||ads.vserv.mobi^
@@ -2130,6 +2134,7 @@
 ||astro.awwlrd.cn^
 ||astyk.cn^
 ||asu05mm.cn^
+||asukahan.xyz^
 ||at-img1.tdimg.com^
 ||at-img2.tdimg.com^
 ||at-img3.tdimg.com^
@@ -2292,6 +2297,7 @@
 ||baimb.com^
 ||baimbw.cn^
 ||baimuyuan.com.cn^
+||bainiaochaofeng.xyz^
 ||bairenad.com^
 ||bairentou.com.cn^
 ||baisb.com^
@@ -2373,6 +2379,7 @@
 ||bayil.cn^
 ||baymax.video^
 ||bayno.cn^
+||bazhangda.shop^
 ||bazhigu.com^
 ||bazinga12138.online^
 ||bb2.ifeng.com^
@@ -2382,6 +2389,7 @@
 ||bbk6236.jianchajingmk.net^
 ||bbk6302.jianchajingmk.net^
 ||bbnn.999xs.com^
+||bbs.kiiqnnx.cn^
 ||bbsg.club^
 ||bbttkk.com^
 ||bbtys.net^
@@ -2567,6 +2575,7 @@
 ||bidvertiser.com^
 ||biexsite.net^
 ||bigbrainker.top^
+||bigcity.ink^
 ||bigcood.xyz^
 ||bigcooe.xyz^
 ||bigdata.advmob.cn^
@@ -2583,6 +2592,7 @@
 ||binkens.cn^
 ||biohailijie.cn^
 ||biquter.xyz^
+||birdshome.top^
 ||birthcaker.cn^
 ||bishufang.cn^
 ||bitauto.irs01.com^
@@ -2608,6 +2618,7 @@
 ||bjhengdiao.com^
 ||bjhmdy.vip^
 ||bjhuhangjy.com^
+||bjhyn.vip^
 ||bjjabc.com^
 ||bjjdboai.cn^
 ||bjlmok.com^
@@ -2776,6 +2787,7 @@
 ||bxsjfol.cn^
 ||by.dyq.cn^
 ||bydonline.com^
+||byqxqhb.cn^
 ||bzclk.baidu.com^
 ||bzlpa.cn^
 ||bznxc6721.xyz^
@@ -3096,6 +3108,7 @@
 ||chanmao.online^
 ||channel.m.163.com^
 ||channeladvisor.com^
+||chaochaogege.net^
 ||chaoge.club^
 ||chaogej.com^
 ||chaoyi4.com^
@@ -3532,6 +3545,7 @@
 ||d-test.39.net^
 ||d.1391.com^
 ||d.13mobi.com^
+||d.6xw.com^
 ||d.721sjv.xyz^
 ||d.8181zx.com^
 ||d.ab126.com^
@@ -4105,6 +4119,7 @@
 ||eclick.baidu.com^
 ||ecma.bdimg.com^
 ||ecmb.bdimg.com^
+||eco.2t4fe.xyz^
 ||eco.3q4td5.xyz^
 ||eco.myt7th.xyz^
 ||eco.taobao.com^
@@ -4153,6 +4168,7 @@
 ||ef-dongfeng.tanx.com^
 ||ef9377.com^
 ||ef9i.lo83cs.space^
+||ef9i0f3oev47.com^
 ||efe25.t7wl8.cn^
 ||effectivemeasure.net^
 ||efyt6.com^
@@ -4312,6 +4328,7 @@
 ||ex.umengcloud.com^
 ||exceptionlog.kugou.com^
 ||exchange.ipdx.cn.miaozhen.com^
+||excsyrv.cn^
 ||exdynsrv.com^
 ||exgrao.cn^
 ||exgt.xyz^
@@ -4398,6 +4415,7 @@
 ||feedback.whalecloud.com^
 ||feelbad.online^
 ||feesee.com^
+||feifei.mobi^
 ||feifys.top^
 ||feilan5.cn^
 ||feimotailan.cn^
@@ -5611,6 +5629,7 @@
 ||iahjoni.cn^
 ||iask.qq.com^
 ||ibdtjqn.cn^
+||iboxs.xyz^
 ||ic.aliyunh.xyz^
 ||ic.aliyuni.xyz^
 ||icast.cn^
@@ -5865,6 +5884,7 @@
 ||istudyenglish.pro^
 ||it028.net.cn^
 ||it760.com^
+||itadapi.ithome.com.tw^
 ||italy-lottery.com^
 ||itchess.cn^
 ||itcoder.top^
@@ -5911,6 +5931,7 @@
 ||j1ybkf.cn^
 ||j2s.ahxbpm.com^
 ||j5sq8.com^
+||j6zh4g0.cn^
 ||j84nvmd.cn^
 ||j9wp6.cn^
 ||ja9377.com^
@@ -5992,6 +6013,7 @@
 ||jiachangwuliu.cn^
 ||jiadunkeji.com^
 ||jiage.ink^
+||jiahehr.cn^
 ||jiahewine.cn^
 ||jiaheyonggu.com^
 ||jiajiann.cn^
@@ -7027,6 +7049,7 @@
 ||lx52168.online^
 ||lxanimation.cn^
 ||lxhjaq.cn^
+||lxiaoxin.com^
 ||lxiu.shop^
 ||lxlx.shop^
 ||lxqcgj.com^
@@ -7345,6 +7368,7 @@
 ||maxsys.adsame.com^
 ||mayi360.cn^
 ||mayiad.com^
+||mayie.xyz^
 ||mazarine-ap.com^
 ||mb.gulongbbs.com^
 ||mbai.cn^
@@ -7738,6 +7762,7 @@
 ||muyijia.shop^
 ||muzsj.com^
 ||mvlkvth.cn^
+||mvo.g45td.xyz^
 ||mvp.mediav.com^
 ||mw.adwo.com^
 ||mwbsvh.cn^
@@ -7751,6 +7776,7 @@
 ||mxxgs.cn^
 ||my-hr.cn^
 ||my.adsmogo.com^
+||my.my-hr.cn^
 ||my2.life^
 ||my5058.com^
 ||myad.cn^
@@ -7890,6 +7916,7 @@
 ||niubiba.com^
 ||niuguwang.net.cn^
 ||niulai0323166.space^
+||niulail.top^
 ||niutaizong.cn^
 ||niux88.com^
 ||niuxgame77.com^
@@ -8108,6 +8135,7 @@
 ||omzpbbz.cn^
 ||onclickads.net^
 ||onclickpredictiv.com^
+||one.toumppk.cn^
 ||onelink.me^
 ||onenews.vip^
 ||onetad.com^
@@ -8463,6 +8491,7 @@
 ||prazpf.cn^
 ||preview.adsame.com^
 ||prfuxl.xyz^
+||principles.wang^
 ||priry.com^
 ||privateadx.com^
 ||prjslxhtx005.top^
@@ -9024,6 +9053,7 @@
 ||rywnvzd.cn^
 ||rz.w8r4q.cn^
 ||rzdedao.com^
+||rzjslm.com^
 ||rzlib.net^
 ||rzxlszy.vip^
 ||s.360.cn^
@@ -9476,6 +9506,7 @@
 ||smartfarming.cn^
 ||smartmad.com^
 ||smarttrade.cn^
+||smgjupy.cn^
 ||smh.ink^
 ||smitionsory.co^
 ||smncden.cn^
@@ -10080,6 +10111,7 @@
 ||thishare.com^
 ||thjxwlkj.com^
 ||thli43.cn^
+||thundersoft.top^
 ||ti863.cn^
 ||tian.biquge.info^
 ||tiandi.com^
@@ -10394,6 +10426,7 @@
 ||u.huoying666.com^
 ||u.oppomobile.com^
 ||u.qscwdv.top^
+||u.qxen.com^
 ||u.ssp.admobile.top^
 ||u.zuoyesou.com^
 ||u0r9.cn^
@@ -10444,6 +10477,7 @@
 ||ud860ec7.com^
 ||udash.umengcloud.com^
 ||udiab1.jianshu.com^
+||udiy.club^
 ||uedas.qidian.com^
 ||ug.snssdk.com^
 ||ugdtimg.com^
@@ -10515,6 +10549,7 @@
 ||uniregistry.com^
 ||unitelogreport.reader.qq.com^
 ||unta.cn^
+||untenable.wang^
 ||untitled.dwstatic.com^
 ||uo.jstaogu.com^
 ||uo12.com^
@@ -10547,6 +10582,7 @@
 ||usingde.com^
 ||usrlock.cn^
 ||usst.store^
+||usually.wang^
 ||utlnjry.top^
 ||utop.umengcloud.com^
 ||uu.jiudiandyw.com^
@@ -10881,6 +10917,7 @@
 ||wangyun.host^
 ||wangzhan5.com^
 ||wangzibo.top^
+||wangzj.top^
 ||wansan66.top^
 ||wantaiss.com^
 ||wantezy.cn^
@@ -11062,6 +11099,7 @@
 ||wlbqczk.vip^
 ||wlfng.com^
 ||wlgszt.com^
+||wljj56.com^
 ||wlmhdk.cn^
 ||wlwblog.top^
 ||wlxzzx.cn^
@@ -11821,6 +11859,7 @@
 ||yaolu.yuedu.163.com^
 ||yaonilugg.com^
 ||yaoquanshumeiyu.com^
+||yaosahrmncc.top^
 ||yaoxing.fun^
 ||yaoyee.com^
 ||yapusheji.com^
@@ -11929,8 +11968,10 @@
 ||yinooo.com^
 ||yinvmh.com^
 ||yinyating.top^
+||yinyouapp.com^
 ||yinyuehu.cn^
 ||yinzantouzi.com^
+||yiotufp.cn^
 ||yipanhaocai.com^
 ||yiqifa.com^
 ||yiqima.xyz^
@@ -11956,6 +11997,7 @@
 ||yjiaj.com^
 ||yjjc.xyz^
 ||yjplpck.cn^
+||yjrjmy.com^
 ||yjwl.ltd^
 ||ykad-data.youku.com^
 ||ykad-gateway.youku.com^
@@ -12110,6 +12152,7 @@
 ||yueduyy.com^
 ||yuegepiano.cn^
 ||yueleshenghuo.cn^
+||yueli.me^
 ||yueli101.xyz^
 ||yuesenshangmao.cn^
 ||yuetx.cc^
@@ -12238,6 +12281,7 @@
 ||z888.izhufu.net^
 ||z9.cnzz.com^
 ||za5.net^
+||zacao.wang^
 ||zailaigou.top^
 ||zaitouwang.com^
 ||zangtui.com^
