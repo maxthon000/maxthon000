@@ -4610,6 +4610,7 @@
 ||ddanq.com^
 ||ddd.1sapp.com^
 ||dddddd.diaobanstudio.com^
+||dddwz.cn^
 ||dddyun.com^
 ||ddeyi.cn^
 ||ddg1277.com^
@@ -4931,6 +4932,7 @@
 ||dpvchos.qqyy.com^
 ||dqcztxmu.com^
 ||dqgpb.com^
+||dqruhue.cn^
 ||dqsft.com^
 ||dragoncent.com^
 ||drawenjoy.cn^
@@ -4975,6 +4977,7 @@
 ||dsqzk.cn^
 ||dss8l0f.cn^
 ||dssdr.top^
+||dssh.shop^
 ||dsxdn.com^
 ||dsxgg.com^
 ||dszan.com^
@@ -8034,6 +8037,7 @@
 ||jyzce.cn^
 ||jyzcv.cn^
 ||jzcool.top^
+||jzdgn.cn^
 ||jzdianlan.cn^
 ||jzhxzsgs.com^
 ||jzjpj.cnzz.kld666.com^
@@ -8193,6 +8197,7 @@
 ||kkbb.top^
 ||kkcaicai.com^
 ||kkhuhct.cn^
+||kkjiaofei.com^
 ||kkpgv2.xunlei.com^
 ||kkpqhqu.cn^
 ||kl-toys.com^
@@ -8213,6 +8218,7 @@
 ||kmaa45.com^
 ||kmgfjc.cn^
 ||kmmgoogle.oss-ap-southeast-1.aliyuncs.com^
+||kmpxq.cn^
 ||kmrcewt.cn^
 ||kmwqxqh.com^
 ||kn.zhangdujia.com^
@@ -8551,6 +8557,7 @@
 ||liuwangmin.top^
 ||liuwenyan.xyz^
 ||liuyansha.vip^
+||liuziqiu.cn^
 ||liuzishen.com^
 ||live-trace.bilibili.com^
 ||live.simcitybuildit.com^
@@ -11328,6 +11335,7 @@
 ||ruiyijy.xyz^
 ||rules-ltvp.inmobi.com^
 ||runative-syndicate.com^
+||rundenongye.com^
 ||runkao.net^
 ||runtai369.cn^
 ||runtujs.com^
@@ -12394,6 +12402,7 @@
 ||sxgbwlkjkj.xyz^
 ||sxhdth.cn^
 ||sxhjty.cn^
+||sxjcnm.com^
 ||sxjkc.cn^
 ||sxjxhg.com^
 ||sxljldh.top^
@@ -13779,6 +13788,7 @@
 ||wakamoment.tk^
 ||wan.douyu.com^
 ||wan.youku.com^
+||wancai.shop^
 ||wanchencloth.cn^
 ||wanderbj.top^
 ||wanfukang.cc^
@@ -15548,6 +15558,7 @@
 ||zgxieshou.com^
 ||zgxuw.lihong.ltd^
 ||zgyemy.com^
+||zgyhw.mobi^
 ||zgyso.cn^
 ||zgystsd.com^
 ||zgzrmh.mobi^
