@@ -5405,7 +5405,7 @@ $websocket,domain=5nj.com|cechi8.com
 MRelateFeedAd
 MoBi*.baidu.js$script,third-party
 [Adblock Plus 2.0]
-[session-ef42c2b7] Route error: The Repository is invisible. see: https://gitee.com/lhzgl6587/hosts
+[session-1b40d6a7] Route error: The Repository is invisible. see: https://gitee.com/lhzgl6587/hosts
 \:[0-9]{4,5}\/sogou\/
 ^adreaper^
 ^ads.swf|
