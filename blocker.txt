@@ -1,5 +1,5 @@
 ! Title: 规则合并组
-! Version: 1656577377626
+! Version: 1656577423932
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###Layeraa1
@@ -5406,7 +5406,7 @@ $websocket,domain=5nj.com|cechi8.com
 MRelateFeedAd
 MoBi*.baidu.js$script,third-party
 [Adblock Plus 2.0]
-[session-ca4f1687] Route error: The Repository is invisible. see: https://gitee.com/lhzgl6587/hosts
+[session-374fe9a7] Route error: The Repository is invisible. see: https://gitee.com/lhzgl6587/hosts
 \:[0-9]{4,5}\/sogou\/
 ^adreaper^
 ^ads.swf|
