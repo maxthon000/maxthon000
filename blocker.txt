@@ -1,4 +1,4 @@
-! Title: ¹æÔòºÏ²¢×é
+! Title: è§„åˆ™åˆå¹¶ç»„
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###Layeraa1
@@ -5405,7 +5405,7 @@ $websocket,domain=5nj.com|cechi8.com
 MRelateFeedAd
 MoBi*.baidu.js$script,third-party
 [Adblock Plus 2.0]
-[session-cd493688] Route error: The Repository is invisible. see: https://gitee.com/lhzgl6587/hosts
+[session-cd4019a3] Route error: The Repository is invisible. see: https://gitee.com/lhzgl6587/hosts
 \:[0-9]{4,5}\/sogou\/
 ^adreaper^
 ^ads.swf|
